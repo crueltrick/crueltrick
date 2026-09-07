@@ -20,16 +20,8 @@
 </p>
 
 <table>
-<tr>
-<td>
-
-LEFT
-
-</td>
-<td>
-
-RIGHT
-
-</td>
-</tr>
+  <tr>
+    <td>LEFT</td>
+    <td>RIGHT</td>
+  </tr>
 </table>

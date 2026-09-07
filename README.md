@@ -19,15 +19,47 @@
   />
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <h3>about me</h3>
+
+    <td width="60%" valign="top">
+
+      <p><b>about me</b></p>
       <p>lorem ipsum mf</p>
+
+      <p><b>interests</b></p>
+      <p>
+        • template<br>
+        • template<br>
+        • template
+      </p>
+
+      <p><b>desc</b></p>
+      <p>
+        • template<br>
+        • template<br>
+        • template
+      </p>
+
     </td>
-    <td>
-      <h3>gallery</h3>
-      <p>template</p>
+
+    <td width="40%" valign="top" align="center">
+
+      <p><b>gallery</b></p>
+
+      <p>
+        <img src="https://placehold.co/180/cacaca/cacaca/" width="180"><br>
+        <i>template</i>
+      </p>
+
+      <p>
+        <img src="https://placehold.co/180/cacaca/cacaca/" width="180"><br>
+        <i>template</i>
+      </p>
+
     </td>
+
   </tr>
 </table>
+
+<p align="center">template</p>

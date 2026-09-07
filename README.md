@@ -19,49 +19,6 @@
   />
 </p>
 
-<table width="100%">
-  <tr>
-
-    <td width="60%" valign="top">
-
-      <p><b>♡ about me</b></p>
-      <p>lorem ipsum mf</p>
-
-      <p>︶꒷꒦꒷♡꒷꒦꒷︶</p>
-
-      <p><b>♡ interests</b></p>
-      <p>
-        • template<br>
-        • template<br>
-        • template
-      </p>
-
-      <p><b>♡ currently</b></p>
-      <p>
-        • template<br>
-        • template<br>
-        • template
-      </p>
-
-    </td>
-
-    <td width="40%" valign="top" align="center">
-
-      <p><b>♡ gallery</b></p>
-
-      <p>
-        <img src="https://placehold.co/180/cacaca/cacaca/" width="180"><br>
-        <i>template</i>
-      </p>
-
-      <p>
-        <img src="https://placehold.co/180/cacaca/cacaca/" width="180"><br>
-        <i>template</i>
-      </p>
-
-    </td>
-
-  </tr>
-</table>
-
-<p align="center">template</p>
+|  |  |
+|:---|---:|
+| <p><b>♡ about me</b></p><p>lorem ipsum mf</p><p>︶꒷꒦꒷♡꒷꒦꒷︶</p><p><b>♡ interests</b></p><p>• template<br>• template<br>• template</p><p><b>♡ currently</b></p><p>• template<br>• template<br>• template</p> | <p><b>♡ gallery</b></p><p><img src="https://placehold.co/180/cacaca/cacaca/" width="180"><br><i>template</i></p><p><img src="https://placehold.co/180/cacaca/cacaca/" width="180"><br><i>template</i></p> |

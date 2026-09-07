@@ -21,7 +21,13 @@
 
 <table>
   <tr>
-    <td>LEFT</td>
-    <td>RIGHT</td>
+    <td>
+      <h3>about me</h3>
+      <p>lorem ipsum mf</p>
+    </td>
+    <td>
+      <h3>gallery</h3>
+      <p>template</p>
+    </td>
   </tr>
 </table>

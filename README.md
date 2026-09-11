@@ -39,7 +39,7 @@ $\color{#7fc980}{♡゙  ﹙ crueltrick ﹚   hoax!   ︵︵ ౨
 </p>
 
 $\color{#e683b9}{w2i  ﹒  dockie !﹒   c + h ੭   ᐢ..ᐢ﹒}$<br>
-  ˖  ⟢   ›  [strawpage](https://crueltrick.straw.page/)   𓂃 ♡ @[commissions](https://crueltrick.carrd.co/) <br>
+  ˖  ⟢   ›  [strawpage](https://crueltrick.straw.page/)   𓂃 ♡ @[commissions](https://crueltrick-comms.carrd.co/) <br>
 $\color{#7fc980}{⸝⸝  ꒰   comms ꕀ open   ↑↑↑  ⁞}$
 
 </td>
